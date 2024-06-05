@@ -48,7 +48,7 @@ Click on compile on the left. remember to make the compiler to 0.8.18  After com
 
  
 # Author
-Amrit Paudel
+## Amrit Paudel
 Crafter
 
 
